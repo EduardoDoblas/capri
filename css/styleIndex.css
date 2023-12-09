@@ -1,0 +1,15 @@
+#info{
+    background: rgb(14, 155, 14);
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+    max-width: 2500px;
+}
+
+.boton{
+    display: flex;
+    height: 500px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: black;
+}
